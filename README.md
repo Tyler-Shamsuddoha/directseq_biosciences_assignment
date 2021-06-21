@@ -1,6 +1,7 @@
 # Interview Question for DirectSeq Biosciences
 
 This repository contains the files needed to answer the following interview question:
+I decided to use pickle to serialize and send the data between the client and the server.
 
 
 
